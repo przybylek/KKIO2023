@@ -8,7 +8,7 @@ const Header = () => (
     <Container className="px-0 py-1">
       <div className="row align-items-center">
         <div className="col-md-6">
-	  <Image src="/Avila.jpg" alt='Avila' fluid />
+	  <Image src="/Warsaw.jpg" alt='Avila' fluid />
         </div>
         <div className="col-md-6">
           <h1 className='h1 text-center anchor font-weight-bold'>KKIO 2023</h1>

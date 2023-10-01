@@ -16,7 +16,7 @@ const Program = () => (
 
     <h3 className='display-5 anchor mb-3'>Keynote Paper</h3>
 	<ul>
-	  <li>Towards reliable rule mining about code smells: The McPython approach (<em>Maciej Ziobrowski, Mirosław Ochodek, <strong>Jerzy Nawrocki</strong> and Bartosz Walter</em>)</li>
+	  <li>Towards reliable rule mining about code smells: The McPython approach (<em>Maciej Ziobrowski, Mirosław Ochodek, <strong><a className='u' href='https://fedcsis.org/speakers/JerzyNawrocki'>Jerzy Nawrocki</a></strong> and Bartosz Walter</em>)</li>
 	</ul>
 
     <h3 className='display-5 anchor mb-3'>Full Papers</h3>
@@ -41,6 +41,8 @@ const Program = () => (
 	<ul>
 	  <li>Comparative Analysis of Low-Code Computation Systems (<em>Anna Rosłan and Michał Śmiałek</em>)</li>
 	</ul>
+
+	<p>The conference program is accessible <a className='u' href='https://fedcsis.org/main/s3e/program'>here</a>.</p>
 
   </Container>
 )

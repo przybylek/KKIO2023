@@ -14,6 +14,7 @@ const ImportantDates = () => (
             <ScheduleDateItem date="2023-06-07" text="Position paper submission"/>
             <ScheduleDateItem date="2023-07-11" text="Author notification"/>
             <ScheduleDateItem date="2023-07-31" text="Final paper submission, registration"/>
+            <ScheduleDateItem date="2023-10-31" text="Post-proceeding paper submission"/>
         </ul>
       </Col>
     </Row>

@@ -1,13 +1,13 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
-First, installs all the dependencies listed within package.json in the local node_modules folder. Run this script once after cloning the repositiry.
+First, installs all the dependencies listed within `package.json` in the local node_modules folder. Run this script once after cloning the repositiry.
 
 ```bash
 yarn install
 ```
 
-Then, edit package.json and provide the IP address of your server or change:
+Then, edit `package.json` and provide the IP address of your server or change:
 ```
 "dev": "next dev -H yourServerIP",
 ```
@@ -27,6 +27,27 @@ npm run dev
 Open [http://yourServerIP:3000](http://yourServerIP:3000) with your browser to see the result.
 
 You can start editing the page by modifying `pages/index.js`. The page auto-updates as you edit the file.
+
+
+
+## Building the static site from a Next.js project
+
+Edit package.json and change:
+```
+"build": "next build",
+```
+to
+```
+"build": "next build && next export",
+```
+
+Then, run the build command to create `out` directory with all the static HTML files and assets ready to host:
+```bash
+yarn run build
+# or
+npm run build
+```
+
 
 ## Learn More
 

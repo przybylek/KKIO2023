@@ -4,7 +4,6 @@ import Image from 'react-bootstrap/Image'
 
 const Navigation = () => (
   <Navbar sticky='top' bg='white' className='shadow-sm' expand='xl'>
-    <Navbar.Brand href='#home'><Image src='/ACM_logo.svg' alt='ACM Logo' /></Navbar.Brand>
     <Navbar.Brand href='#home'>KKIO 2024</Navbar.Brand>
     <Navbar.Toggle aria-controls="navbar-nav" />
     <Navbar.Collapse id="navbar-nav">
@@ -25,8 +24,3 @@ const Navigation = () => (
 
 export default Navigation
 
-// <Navbar.Brand style={{width: 'auto', height: 30}}><Image src='/ACM_logo.svg' alt='ACM Logo' /></Navbar.Brand>
-
-// <Image src='/ACM_logo.svg' alt='ACM Logo' />
-
-// <img src='/ACM_logo.svg' alt='ACM Logo' />
