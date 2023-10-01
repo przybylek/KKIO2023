@@ -11,9 +11,9 @@ const Header = () => (
 	  <Image src="/Avila.jpg" alt='Avila' fluid />
         </div>
         <div className="col-md-6">
-          <h1 className='h1 text-center anchor font-weight-bold'>KKIO@<a className='u' href=''>FedCsIS'23</a></h1>
-          <h2 className='text-center h3 py-3'>24th Conference on <strong>...</strong></h2>
-          <h3 className='text-center h4 pb-3'><small>at the 18th Conference on ...</small></h3>
+          <h1 className='h1 text-center anchor font-weight-bold'>KKIO 2023</h1>
+          <h2 className='text-center h3 py-3'>24th Conference on <strong>Practical Aspects of and Solutions for Software Engineering</strong></h2>
+          <h3 className='text-center h4 pb-3'><small>Organized within the framework of the <strong><a className='u' href='https://fedcsis.org'>FedCSIS</a></strong> Conference Series</small></h3>
           <h4 className='text-center h5'>September 17 - 20, 2023</h4>
           <h4 className='text-center h5 pb-3'>Warsaw, Poland</h4>
 
