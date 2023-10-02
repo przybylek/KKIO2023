@@ -34,12 +34,12 @@ const Program = () => (
     <h3 className='display-5 anchor mb-3'>Short Papers</h3>
 	<ul>
 	  <li>The Effects of Native Language on Requirements Quality (<em>Fayona Cowperthwaite, Jennifer Horkoff and Sylwia Kopczyńska </em>)</li>
-	  <li>Association Rule Mining for Requirement Elicitation Techniques in IT Projects(<em>Denys Gobov and Nikolai Sokolovskiy</em>)</li>
+	  <li>Association Rule Mining for Requirement Elicitation Techniques in IT Projects (<em>Denys Gobov and Nikolai Sokolovskiy</em>)</li>
 	  <li>Review of Automated Code Refactoring of C# Programs (<em>Anna Derezinska and Dawid Sygocki</em>)</li>
 	</ul>
 
 
-    <h3 className='display-5 anchor mb-3'>Position Papers</h3>
+    <h3 className='display-5 anchor mb-3'>Position Paper</h3>
 	<ul>
 	  <li>Comparative Analysis of Low-Code Computation Systems (<em>Anna Rosłan and Michał Śmiałek</em>)</li>
 	</ul>
