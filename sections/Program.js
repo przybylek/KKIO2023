@@ -14,11 +14,11 @@ const Program = () => (
     <a className='target' id='program'/>
     <h2 className='display-4 anchor mb-3'>Accepted Papers</h2>
 
-	<p>The conference received 41 submissions. After a rigorous review process, 11 submissions were accepted for presentation during the conference (please refer to the <a className='u' href='https://fedcsis.org/main/s3e/program'>conference program</a>) and inclusion in the proceedings under various categories outlined below.</p>
+	<p>The conference received 41 submissions. After a rigorous review process, 11 submissions were accepted for presentation during the conference (please refer to the <a className='u' href='https://2023.fedcsis.org/main/s3e/program'>conference program</a>) and inclusion in the proceedings under various categories outlined below.</p>
 
     <h3 className='display-5 anchor mb-3'>Keynote Paper</h3>
 	<ul>
-	  <li><a className='u' href='https://fedcsis.org/speakers/JerzyNawrocki'>Towards reliable rule mining about code smells: The McPython approach</a> (<em>Maciej Ziobrowski, Mirosław Ochodek, <strong>Jerzy Nawrocki</strong> and Bartosz Walter</em>)</li>
+	  <li><a className='u' href='https://2023.fedcsis.org/speakers/JerzyNawrocki'>Towards reliable rule mining about code smells: The McPython approach</a> (<em>Maciej Ziobrowski, Mirosław Ochodek, <strong>Jerzy Nawrocki</strong> and Bartosz Walter</em>)</li>
 	</ul>
 
     <h3 className='display-5 anchor mb-3'>Full Papers</h3>
